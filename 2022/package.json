@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "tsx ./file.ts"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "tsx": "^4.19.2"
+  }
+}
